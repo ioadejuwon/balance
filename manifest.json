@@ -1,0 +1,16 @@
+{
+    "name": "Balance++",
+    "description": "This chrome extension helps makes it easier to have all your favourite websites in a page making them easily accessible. It is also equiped with quotes to keep you charged and motivated throughout the day..",
+    "version": "2.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "index.html"
+        
+    },
+    "icons": {
+        "48": "balance.png"
+      },
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    }
+}
