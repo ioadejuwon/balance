@@ -1,4 +1,4 @@
-# motivate
+# Balance
 
 Buuit this for a chrome extension. It helps me manage all my most visited tabs in a page.
 
